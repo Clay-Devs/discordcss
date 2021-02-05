@@ -5,4 +5,4 @@
 Made with </> and <3 by AR :P
 
 
-![Run on Repl.it](https://repl.it/badge/github/Clay-Devs/discordcss)
+[![Run on Repl.it](https://repl.it/badge/github/Clay-Devs/discordcss)](https://repl.it/github/Clay-Devs/discordcss)
