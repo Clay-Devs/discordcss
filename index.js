@@ -1,2 +1,0 @@
-const express = require('express'); const app = express(); app.use((req, res) => { if (req.path === '/') return res.sendFile(__dirname + '/index.html'); else if (req.path === '/discord.css') return res.sendFile(__dirname + '/discord.css'); else if (req.path === '/discord-u.css') return res.sendFile(__dirname + '/discord-u.css'); else return res.redirect('https://' + req.hostname) }); app.listen(3000, () => {console.log('[DISCORD.CSS HOMEPAGE] | Started!');});
-// gl tryna make changes to this file :,D
