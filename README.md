@@ -1,4 +1,4 @@
-[![Discord.css banner](https://media.discordapp.net/attachments/804550297107300413/807307879030980668/unknown.png?width=832&height=447)](https://discordcss.ml)
+[![Discord.css banner](https://media.discordapp.net/attachments/804550297107300413/807312905518579722/SDBlG8AAAAASUVORK5CYII.png?width=749&height=402)](https://discordcss.ml)
 # [Discord.css](https://discordcss.ml)
 ## Make your websites with Discord's design.
 ### This is the official source code for Discord.css, Unminified Discord.css, and the Discord.css website/express server.
