@@ -15,3 +15,10 @@ Made with </> and <3 by AR :P
 
 ## NEW BOOKMARKLET!
 Epic new bookmarklet, get it [here](https://discordcss.hijsgeiprygfirh.repl.co/bookmarklet "POG")
+
+## Setup
+Add the following in your website's <head> tag. If you don't have one, make one:
+```html
+<link rel="stylesheet" href="https://discordcss.ml/discord.css">
+```
+That's all! Discord.css is setup on your website 🎉
