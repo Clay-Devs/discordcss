@@ -26,11 +26,13 @@ That's all! Discord.css is setup on your website 🎉
 Suggested by Remiix, coming soon
 
 ## Credits
-====== OWNER/DEVELOPER ======
+```js
+'====== OWNER/DEVELOPER ======'
 AR
-====== DEVELOPERS/HELPERS ======
+'====== DEVELOPERS/HELPERS ======'
 RemiixInc
 Redacted
-thei5pro
+Thei5pro
 Riverside Rocks
 AboutDavid
+```
