@@ -13,5 +13,5 @@ Made with </> and <3 by AR :P
 (The discordcss.ml domain is still being hooked up, use [this](https://discordcss.hijsgeiprygfirh.repl.co/discord.css) for now, sorry about that D:)
 
 
-## New update
-## A bookmarklet is under development 👀
+## NEW BOOKMARKLET!
+Epic new bookmarklet, get it [here](https://discordcss.hijsgeiprygfirh.repl.co/bookmarklet "POG")
