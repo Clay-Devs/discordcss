@@ -14,4 +14,4 @@ Made with </> and <3 by AR :P
 
 
 ## New update
-## The repository is now super organized, seperating the actual discord.css from the website!
+## A bookmarklet is under development 👀

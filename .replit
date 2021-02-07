@@ -1,3 +1,3 @@
-# discordcss.ml | This file is to make our Repl on Repl.it runs the code we wrote properly, this is also useful if you want to host this yourself on Repl.it.
+# repl.it sucks
 run="node ./js/expresserver.js"
 language="nodejs"
