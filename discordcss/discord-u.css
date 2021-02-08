@@ -1574,9 +1574,18 @@ body > footer {
 }
 
  button {
-    background-color: #7289DA !important;
-    color: white !important;
+   background-color:#23272A!important;
+   color:#fff!important;
+   border-radius:60px !important
   }
+  
+  button:hover{
+    background-color: #36393F !important;
+    color: #7289da !important;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19)!important
+  }
+  
+
 
   img {
     border-radius: 10px;
