@@ -8,12 +8,8 @@
 [![Run on Repl.it](https://repl.it/badge/github/Clay-Devs/discordcss)](https://repl.it/github/Clay-Devs/discordcss)
 
 
-
 (The discordcss.ml domain is still being hooked up, use [this](https://discordcss.hijsgeiprygfirh.repl.co/discord.css) for now, sorry about that D:)
 
-
-## NEW BOOKMARKLET!
-Epic new bookmarklet, get it [here](https://discordcss.hijsgeiprygfirh.repl.co/bookmarklet "POG")
 
 ## Setup
 Add the following in your website's <head> tag. If you don't have one, make one:
@@ -38,3 +34,9 @@ Riverside Rocks
 AboutDavid
 Pyxel
 ```
+
+## Latest update changelog
+`Buttons` | Buttons have been FULLY redone, looks 100000x better! Inspired by Discord's own homepage.
+`Website updates` | The website's banner has been redone and is now custom 
+`Bookmarklet` | EPIC new bookmarklet to preview Discord.css on any website, check it out [here](https://discordcss.hijsgeiprygfirh.repl.co "poggies")
+`Non minified files` | These changes and some old changes have been updated in the non minified files accordingly so that they match.
