@@ -37,6 +37,12 @@ Pyxel
 
 ## Latest update changelog
 `Buttons` | Buttons have been FULLY redone, looks 100000x better! Inspired by Discord's own homepage.
+
+
 `Website updates` | The website's banner has been redone and is now custom 
+
+
 `Bookmarklet` | EPIC new bookmarklet to preview Discord.css on any website, check it out [here](https://discordcss.hijsgeiprygfirh.repl.co "poggies")
+
+
 `Non minified files` | These changes and some old changes have been updated in the non minified files accordingly so that they match.
