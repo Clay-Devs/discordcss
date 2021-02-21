@@ -1,5 +1,5 @@
-[![Discord.css banner](https://media.discordapp.net/attachments/804550297107300413/807312905518579722/SDBlG8AAAAASUVORK5CYII.png?width=749&height=402)](https://discordcss.ml)
-# [Discord.css](https://discordcss.ml)
+[![Discord.css banner](https://media.discordapp.net/attachments/804550297107300413/807312905518579722/SDBlG8AAAAASUVORK5CYII.png?width=749&height=402)](https://discordcss.blobby.me)
+# [Discord.css](https://discordcss.blobby.me)
 ## Make your websites with Discord's design.
 ### This is the official source code for Discord.css, Unminified Discord.css, and the Discord.css website/express server.
 ### Feel free to contribute to discord.css, all help is appreciated <33
@@ -8,7 +8,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/Clay-Devs/discordcss)](https://repl.it/github/Clay-Devs/discordcss)
 
 
-(The discordcss.ml domain is still being hooked up, use [this](https://discordcss.hijsgeiprygfirh.repl.co/discord.css) for now, sorry about that D:)
+(someone sadly stole the discordcss.ml domain, new domain: discordcss.blobby.me)
 
 
 ## Setup
@@ -23,15 +23,15 @@ Suggested by Remiix, coming soon
 
 ## Credits
 The credits to this project in no order at all
-```js
-'====== OWNER/DEVELOPER ======'
+```
+====== OWNER/DEVELOPER ======
 AR
-'====== DEVELOPERS/HELPERS ======'
+====== DEVELOPERS/HELPERS ======
 RemiixInc
-Redacted
+ViLLaN TheDooM
 Thei5pro
 Riverside Rocks
-AboutDavid
+aboutDavid
 Pyxel
 ```
 
