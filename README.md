@@ -14,7 +14,7 @@
 ## Setup
 Add the following in your website's <head> tag. If you don't have one, make one:
 ```html
-<link rel="stylesheet" href="https://discordcss.ml/discord.css">
+<link rel="stylesheet" href="https://discordcss.blobby.me/discord.css">
 ```
 That's all! Discord.css is setup on your website 🎉
 
@@ -32,7 +32,7 @@ ViLLaN TheDooM
 Thei5pro
 Riverside Rocks
 aboutDavid
-Pyxel
+Pyxel -> did nothing other than changing this file 
 ```
 
 ## Latest update changelog
