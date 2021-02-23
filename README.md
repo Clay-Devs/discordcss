@@ -12,7 +12,7 @@
 
 
 ## Setup
-Add the following in your website's <head> tag. If you don't have one, make one:
+Add the following in your website's \<head\> tag. If you don't have one, make one:
 ```html
 <link rel="stylesheet" href="https://discordcss.blobby.me/discord.css">
 ```
