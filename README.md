@@ -26,12 +26,7 @@ The credits to this project in no order at all
 ```
 ====== OWNER/DEVELOPER ======
 AR
-====== DEVELOPERS/HELPERS ======
-RemiixInc
-ViLLaN TheDooM
-Thei5pro
-Riverside Rocks
-aboutDavid
+====== HELPERS ======
 Pyxel -> did nothing other than changing this file 
 ```
 
